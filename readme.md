@@ -41,16 +41,3 @@ To run all the unit tests, use the following command:
 ```
 python -m unittest discover tests
 ```
-
-## Your Task
-
-**Ensure and validate with tests that the app meets the required functionality** and addresses any bugs. Enhance performance and do optimisations to the best of your knowledge, while refactoring the code for better readability and maintainability. Feel free to make necessary assumptions where applicable.
-
-## Submission
-
-Once you are done, please:
-
-1. Push your code to a **public** GitHub repository with at least **read** access
-2. Reply to our email with the repository link to complete your submission within the deadline
-
-Good luck!
